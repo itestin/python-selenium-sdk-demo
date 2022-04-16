@@ -1,0 +1,2 @@
+test-ai-selenium==0.1.20
+webdriver-manager==3.5.4
